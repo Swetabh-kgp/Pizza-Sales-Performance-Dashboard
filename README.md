@@ -1,6 +1,6 @@
 # Pizza Sales Performance Analysis Dashboard
 ## Project Overview
-This project analyzes pizza sales performance using Power BI. The dashboard provides clear insights into revenue, orders, pizzas sold, average order value, and pizza category performance.
+This project analyzes pizza sales performance using Postgre SQL & Power BI. The dashboard provides clear insights into revenue, orders, pizzas sold, average order value, and pizza category performance.
 ## Dashboard Preview
 ![Pizza Sales Dashboard](Pizza%20Sales%20Performance%20Analysis.JPG)
 ## Key Metrics
